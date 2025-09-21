@@ -20,6 +20,8 @@ This repository provides a production-ready setup for deploying applications to 
 ---
 
 ## 🏗️ Architecture Overview
+<img width="1072" height="612" alt="image" src="https://github.com/user-attachments/assets/fdc34533-22c8-46a3-b633-f0a4779062e6" />
+
 
 ### Components
 
